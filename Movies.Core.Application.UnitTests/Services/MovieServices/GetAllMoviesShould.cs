@@ -22,7 +22,7 @@ namespace Movies.Core.Application.UnitTests.Services.MovieServices
                 {
                     Id = 1,
                     Name = "Movie 1",
-                    Description = "description",
+                    Description = "description 1",
                     CategoryId = 1,
                     Minutes = 120,
                     Rating = 5,
@@ -37,7 +37,7 @@ namespace Movies.Core.Application.UnitTests.Services.MovieServices
                 {
                     Id = 2,
                     Name = "Movie 2",
-                    Description = "description",
+                    Description = "description 2",
                     CategoryId = 1,
                     Minutes = 120,
                     Rating = 5,
